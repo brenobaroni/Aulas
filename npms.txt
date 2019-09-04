@@ -1,0 +1,3 @@
+npm i lodash           //na pasta pacotes utils
+npm i -g nodemon       //global
+npm i axios	       //Axios Get Json

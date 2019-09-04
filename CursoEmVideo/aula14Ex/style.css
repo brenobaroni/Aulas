@@ -1,0 +1,37 @@
+body {
+    background: rgb(110, 110, 247);
+    font: normal 19px Arial;
+    
+}
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 7px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.textalling{
+    text-align: center;
+    
+}
+.textalling2{
+    text-align: center;
+    padding: 5px;
+}
+
+#imagem{
+    padding: 15px;
+}
